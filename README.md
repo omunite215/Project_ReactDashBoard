@@ -52,6 +52,7 @@ The website should now be up and running on http://localhost:3000.
 - Tailwind - A Modern CSS Framework.
 - HTML - Standard markup language for creating web pages
 - CSS - Style sheet language used for describing the look and formatting of a document written in HTML
+- React Context API -  allows us to pass data through our component trees, giving our components the ability to communicate and share data at different levels.
 
 ## Features
 
